@@ -136,5 +136,3 @@ print(f"{toc - tic:0.4f} seconds")
             # l=12, time=47.0208 (sec)
             # l=11, time=51.2576 (sec)
             # l=10, time=69.0672 (sec)
-
-git 
