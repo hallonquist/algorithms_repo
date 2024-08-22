@@ -2,6 +2,7 @@ import numpy as np
 import heapq
 import copy
 import time
+#import tensorflow as tf
 
 file = open('clustering_big.txt','r')
 line = file.readline()
@@ -45,8 +46,6 @@ if 0:
     print(len(edges))
     # 4497.0
     # 3568
-
-
 
 
 
